@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.lightBlue,
         fontFamily: 'Nunito',
       ),
-      home: LoginPage(), //ye he home  home ekbar dene se ho jaata he . listview de na he to statefull chai
+      home: LoginPage(),
     );
   }
 }
